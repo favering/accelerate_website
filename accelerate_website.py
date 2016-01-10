@@ -5,8 +5,6 @@
     accelerating visiting some foreign websit(such as
     stackoverflow etc..)
     Only HTTP on port 80 supported, HTTPS not supported
-
-    Warning, you must run it in command line console, NOT to run it by double click it.
  
 """
 
