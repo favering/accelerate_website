@@ -13,8 +13,8 @@
 target_hosts = \
     [
         "ajax.googleapis.com",
-        "www.gravatar.com"
-        "cdn.sstatic.net"
+        "www.gravatar.com",
+        #"cdn.sstatic.net"
     ]
 to_ip = "127.0.0.1"
 
