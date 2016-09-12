@@ -15,6 +15,7 @@ target_hosts = \
         "ajax.googleapis.com",
         "www.gravatar.com",
         #"cdn.sstatic.net"
+        "fonts.googleapis.com"
     ]
 to_ip = "127.0.0.1"
 
