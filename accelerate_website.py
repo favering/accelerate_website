@@ -8,8 +8,8 @@
  
 """
 
-#   Here add whaterver website blocked in China, which will
-#   be forwarded to our localhost in this programm.
+#   Here add whatever domain blocked in China, which will
+#   be forwarded to our localhost in this program.
 target_hosts = \
     [
         "ajax.googleapis.com",
